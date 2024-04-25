@@ -1,6 +1,6 @@
 # ATITUDINAL---PDM
 
-\*Integrantes*\
+Integrantes:
 Cauan Brasil
 Gabriel Calisto
 Leonardo Lima Rosa
