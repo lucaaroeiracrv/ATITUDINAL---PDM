@@ -1,4 +1,4 @@
-# ATITUDINAL---PDM
+# ATITUDINAL---PDM (na branch master)
 
 Integrantes:
 Cauan Brasil
@@ -7,4 +7,4 @@ Leonardo Lima Rosa
 Luca Aroeira
 Lucas Xavier
 Rafael Lucietto
-#NA OUTRA BRANCH
+
